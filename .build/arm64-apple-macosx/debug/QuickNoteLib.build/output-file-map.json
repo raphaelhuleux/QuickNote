@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/debug/QuickNoteLib.build/master.swiftdeps"
+  },
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/Document.swift": {
+    "dependencies": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/debug/QuickNoteLib.build/Document.d",
+    "object": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/debug/QuickNoteLib.build/Document.swift.o",
+    "swiftmodule": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/debug/QuickNoteLib.build/Document~partial.swiftmodule",
+    "swift-dependencies": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/debug/QuickNoteLib.build/Document.swiftdeps"
+  },
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/DocumentManager.swift": {
+    "dependencies": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/debug/QuickNoteLib.build/DocumentManager.d",
+    "object": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/debug/QuickNoteLib.build/DocumentManager.swift.o",
+    "swiftmodule": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/debug/QuickNoteLib.build/DocumentManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/debug/QuickNoteLib.build/DocumentManager.swiftdeps"
+  },
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/NoteStorage.swift": {
+    "dependencies": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/debug/QuickNoteLib.build/NoteStorage.d",
+    "object": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/debug/QuickNoteLib.build/NoteStorage.swift.o",
+    "swiftmodule": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/debug/QuickNoteLib.build/NoteStorage~partial.swiftmodule",
+    "swift-dependencies": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/debug/QuickNoteLib.build/NoteStorage.swiftdeps"
+  }
+}

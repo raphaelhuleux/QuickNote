@@ -1,0 +1,14 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "3750f29a8a677725d62354f6639afedd131aca52aec867833cd4c0f16fbd2fb5"
+build_start_time: [1767956687, 461955000]
+build_end_time: [1767956688, 353748000]
+inputs:
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/AppDelegate.swift": [1767956613, 398017625]
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/ContentView.swift": [1767632053, 344553765]
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/Document.swift": [1767630198, 305433995]
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/DocumentManager.swift": [1767955936, 762626600]
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/FloatingPanel.swift": [1767632339, 596308791]
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/NoteStorage.swift": [1767616514, 460466238]
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/QuickNoteApp.swift": [1767631425, 668138036]
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/SettingsView.swift": [1767956633, 553196875]
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/TabBarView.swift": [1767630247, 860042869]

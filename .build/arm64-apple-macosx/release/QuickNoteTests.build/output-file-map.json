@@ -1,0 +1,27 @@
+{
+  "": {
+    "dependencies": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/QuickNoteTests.d",
+    "object": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/QuickNoteTests.o",
+    "swift-dependencies": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/master.swiftdeps"
+  },
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/DocumentManagerTests.swift": {
+    "object": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/DocumentManagerTests.swift.o",
+    "swiftmodule": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/DocumentManagerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/DocumentManagerTests.swiftdeps"
+  },
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/DocumentTests.swift": {
+    "object": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/DocumentTests.swift.o",
+    "swiftmodule": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/DocumentTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/DocumentTests.swiftdeps"
+  },
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/NoteStorageTests.swift": {
+    "object": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/NoteStorageTests.swift.o",
+    "swiftmodule": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/NoteStorageTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/NoteStorageTests.swiftdeps"
+  },
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/TestRunner.swift": {
+    "object": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/TestRunner.swift.o",
+    "swiftmodule": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/TestRunner~partial.swiftmodule",
+    "swift-dependencies": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/TestRunner.swiftdeps"
+  }
+}

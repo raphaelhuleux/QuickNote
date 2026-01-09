@@ -1,0 +1,965 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.xctest/Contents/MacOS/QuickNotePackageTests",
+      "packagePath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote",
+      "productName" : "QuickNotePackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.HotKey-arm64-apple-macosx15.0-release.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/sources",
+      "importPath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/HotKey.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/HotKeysController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/Key.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/KeyCombo+System.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/KeyCombo.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/NSEventModifierFlags+HotKey.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "HotKey",
+      "moduleOutputPath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/Modules/HotKey.swiftmodule",
+      "objects" : [
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/HotKey.swift.o",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/HotKeysController.swift.o",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/Key.swift.o",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/KeyCombo+System.swift.o",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/KeyCombo.swift.o",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/NSEventModifierFlags+HotKey.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-O",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-module-cache-path",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/HotKey-Swift.h",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-F",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-suppress-warnings"
+      ],
+      "outputFileMapPath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/HotKey.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/HotKeysController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/Key.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/KeyCombo+System.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/KeyCombo.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/NSEventModifierFlags+HotKey.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/Modules/HotKey.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/HotKey.swift",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/HotKeysController.swift",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/Key.swift",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/KeyCombo+System.swift",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/KeyCombo.swift",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/NSEventModifierFlags+HotKey.swift"
+      ],
+      "tempsPath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build",
+      "wholeModuleOptimization" : true
+    },
+    "C.QuickNote-arm64-apple-macosx15.0-release.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/sources",
+      "importPath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/Document.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/DocumentManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/FloatingPanel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/NoteStorage.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/QuickNoteApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/TabBarView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/Modules/HotKey.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "QuickNote",
+      "moduleOutputPath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/Modules/QuickNote.swiftmodule",
+      "objects" : [
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/AppDelegate.swift.o",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/ContentView.swift.o",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/Document.swift.o",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/DocumentManager.swift.o",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/FloatingPanel.swift.o",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/NoteStorage.swift.o",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/QuickNoteApp.swift.o",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/SettingsView.swift.o",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/TabBarView.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-O",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-module-cache-path",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "QuickNote_main",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-F",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "quicknote"
+      ],
+      "outputFileMapPath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/AppDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/Document.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/DocumentManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/FloatingPanel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/NoteStorage.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/QuickNoteApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/TabBarView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/Modules/QuickNote.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/AppDelegate.swift",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/ContentView.swift",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/Document.swift",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/DocumentManager.swift",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/FloatingPanel.swift",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/NoteStorage.swift",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/QuickNoteApp.swift",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/SettingsView.swift",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/TabBarView.swift"
+      ],
+      "tempsPath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build",
+      "wholeModuleOptimization" : true
+    },
+    "C.QuickNotePackageTests-arm64-apple-macosx15.0-release.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/sources",
+      "importPath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/Modules/QuickNoteTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "QuickNotePackageTests",
+      "moduleOutputPath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/Modules/QuickNotePackageTests.swiftmodule",
+      "objects" : [
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-O",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-module-cache-path",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/QuickNotePackageTests-Swift.h",
+        "-color-diagnostics",
+        "-F",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "quicknote"
+      ],
+      "outputFileMapPath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/Modules/QuickNotePackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build",
+      "wholeModuleOptimization" : true
+    },
+    "C.QuickNoteTests-arm64-apple-macosx15.0-release.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/sources",
+      "importPath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/DocumentManagerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/DocumentTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/NoteStorageTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/TestRunner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "QuickNoteTests",
+      "moduleOutputPath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/Modules/QuickNoteTests.swiftmodule",
+      "objects" : [
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/DocumentManagerTests.swift.o",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/DocumentTests.swift.o",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/NoteStorageTests.swift.o",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/TestRunner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-index-store-path",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/index/store",
+        "-O",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-module-cache-path",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-F",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "quicknote"
+      ],
+      "outputFileMapPath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/DocumentManagerTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/DocumentTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/NoteStorageTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/TestRunner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/Modules/QuickNoteTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/DocumentManagerTests.swift",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/DocumentTests.swift",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/NoteStorageTests.swift",
+        "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/TestRunner.swift"
+      ],
+      "tempsPath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build",
+      "wholeModuleOptimization" : true
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "HotKey" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "HotKey",
+      "-whole-module-optimization",
+      "-num-threads",
+      "10",
+      "-c",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/HotKey.swift",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/HotKeysController.swift",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/Key.swift",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/KeyCombo+System.swift",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/KeyCombo.swift",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/NSEventModifierFlags+HotKey.swift",
+      "-I",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-O",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-module-cache-path",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/HotKey-Swift.h",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-F",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-suppress-warnings",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ],
+    "QuickNote" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "QuickNote",
+      "-package-name",
+      "quicknote",
+      "-whole-module-optimization",
+      "-num-threads",
+      "10",
+      "-c",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/AppDelegate.swift",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/ContentView.swift",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/Document.swift",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/DocumentManager.swift",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/FloatingPanel.swift",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/NoteStorage.swift",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/QuickNoteApp.swift",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/SettingsView.swift",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/TabBarView.swift",
+      "-I",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-O",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-module-cache-path",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "QuickNote_main",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-F",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "quicknote",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ],
+    "QuickNotePackageTests" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "QuickNotePackageTests",
+      "-package-name",
+      "quicknote",
+      "-whole-module-optimization",
+      "-num-threads",
+      "10",
+      "-c",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.derived/runner.swift",
+      "-I",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-O",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-module-cache-path",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/QuickNotePackageTests-Swift.h",
+      "-color-diagnostics",
+      "-F",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "quicknote",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ],
+    "QuickNoteTests" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "QuickNoteTests",
+      "-package-name",
+      "quicknote",
+      "-whole-module-optimization",
+      "-num-threads",
+      "10",
+      "-c",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/DocumentManagerTests.swift",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/DocumentTests.swift",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/NoteStorageTests.swift",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/TestRunner.swift",
+      "-I",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-index-store-path",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/index/store",
+      "-O",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-module-cache-path",
+      "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-F",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "quicknote",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "HotKey" : [
+
+    ],
+    "QuickNote" : [
+      "HotKey"
+    ],
+    "QuickNotePackageTests" : [
+      "QuickNoteTests"
+    ],
+    "QuickNoteTests" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+    "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.derived/runner.swift" : {
+      "inputs" : [
+
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "traitConfiguration" : {
+    "enableAllTraits" : false
+  },
+  "writeCommands" : {
+    "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/HotKey.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/HotKeysController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/Key.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/KeyCombo+System.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/KeyCombo.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/NSEventModifierFlags+HotKey.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/sources"
+    },
+    "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/Document.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/DocumentManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/FloatingPanel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/NoteStorage.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/QuickNoteApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/QuickNote/TabBarView.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/sources"
+    },
+    "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/HotKey.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/HotKeysController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/Key.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/KeyCombo+System.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/KeyCombo.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/NSEventModifierFlags+HotKey.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/AppDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/Document.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/DocumentManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/FloatingPanel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/NoteStorage.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/QuickNoteApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/TabBarView.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNote.product/Objects.LinkFileList"
+    },
+    "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/sources"
+    },
+    "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/DocumentManagerTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/DocumentTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/NoteStorageTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/TestRunner.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/DocumentManagerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/DocumentTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/NoteStorageTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/Tests/QuickNoteTests/TestRunner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNoteTests.build/sources"
+    },
+    "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}

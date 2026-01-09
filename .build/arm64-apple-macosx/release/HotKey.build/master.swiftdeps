@@ -1,0 +1,12 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "701395d66b4057112f4afeca906b4d0da8ba0ac921dee6ef8ef16a4f97f00e1c"
+build_start_time: [1767956336, 115598000]
+build_end_time: [1767956337, 57349000]
+inputs:
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/HotKey.swift": [1767616454, 816025721]
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/HotKeysController.swift": [1767616454, 816156012]
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/Key.swift": [1767616454, 816233679]
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/KeyCombo+System.swift": [1767616454, 816381596]
+  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/KeyCombo.swift": [1767616454, 816444179]
+  ? "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/checkouts/HotKey/Sources/HotKey/NSEventModifierFlags+HotKey.swift"
+  : [1767616454, 816526012]

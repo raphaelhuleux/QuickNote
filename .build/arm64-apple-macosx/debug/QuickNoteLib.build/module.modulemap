@@ -1,0 +1,4 @@
+module QuickNoteLib {
+    header "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/debug/QuickNoteLib.build/QuickNoteLib-Swift.h"
+    requires objc
+}
