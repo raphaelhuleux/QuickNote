@@ -1,12 +1,12 @@
 {
   "": {
-    "dependencies": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/QuickNotePackageTests.d",
-    "object": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/QuickNotePackageTests.o",
-    "swift-dependencies": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/master.swiftdeps"
+    "dependencies": "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/QuickNotePackageTests.d",
+    "object": "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/QuickNotePackageTests.o",
+    "swift-dependencies": "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/master.swiftdeps"
   },
-  "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.derived/runner.swift": {
-    "object": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/runner.swift.o",
-    "swiftmodule": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/runner~partial.swiftmodule",
-    "swift-dependencies": "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/runner.swiftdeps"
+  "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.derived/runner.swift": {
+    "object": "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/runner.swiftdeps"
   }
 }

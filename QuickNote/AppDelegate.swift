@@ -150,8 +150,8 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     }
 
     private func setupKeyboardShortcut() {
-        // Option + O (global hotkey)
-        hotKey = HotKey(key: .o, modifiers: [.option])
+        // Cmd + Option + Ctrl + O (global hotkey)
+        hotKey = HotKey(key: .o, modifiers: [.command, .option, .control])
         hotKey?.keyDownHandler = { [weak self] in
             self?.togglePanel()
         }
@@ -174,7 +174,6 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         NSApp.setActivationPolicy(.accessory)
         NSApp.activate(ignoringOtherApps: true)
 
-        panel.center()
         panel.makeKeyAndOrderFront(nil)
 
         // Post notification to focus the text editor in SwiftUI

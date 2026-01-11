@@ -14,7 +14,10 @@ let package = Package(
             name: "QuickNote",
             dependencies: ["HotKey"],
             path: "QuickNote",
-            exclude: ["Info.plist"]
+            exclude: ["Info.plist", "icon.png"],
+            resources: [
+                .copy("AppIcon.icns")
+            ]
         ),
         .testTarget(
             name: "QuickNoteTests",

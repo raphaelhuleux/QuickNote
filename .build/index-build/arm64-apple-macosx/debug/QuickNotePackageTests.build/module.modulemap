@@ -1,4 +1,0 @@
-module QuickNotePackageTests {
-    header "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/index-build/arm64-apple-macosx/debug/QuickNotePackageTests.build/QuickNotePackageTests-Swift.h"
-    requires objc
-}

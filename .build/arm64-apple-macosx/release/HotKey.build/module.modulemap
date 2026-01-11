@@ -1,4 +1,4 @@
 module HotKey {
-    header "/Users/raphaelhuleux/Desktop/1_projects/note_taking_app/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/HotKey-Swift.h"
+    header "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/HotKey-Swift.h"
     requires objc
 }
