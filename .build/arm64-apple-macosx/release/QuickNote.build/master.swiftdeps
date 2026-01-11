@@ -1,15 +1,16 @@
 version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
 options: "72b5316b63827745a37b99592eaf43f13a0bc0e615ea937dd1d13da6ef8128d4"
-build_start_time: [1768132844, 328212000]
-build_end_time: [1768132852, 603373000]
+build_start_time: [1768137073, 666550000]
+build_end_time: [1768137074, 964931000]
 inputs:
   ? "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/DerivedSources/resource_bundle_accessor.swift"
   : [1768132816, 171316970]
   "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/AppDelegate.swift": [1768131313, 997602272]
-  "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/ContentView.swift": [1767632053, 344553709]
+  "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/ContentView.swift": [1768133223, 17367263]
   "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/Document.swift": [1767630198, 305433989]
   "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/DocumentManager.swift": [1767955936, 762626648]
   "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/FloatingPanel.swift": [1767632339, 596308827]
+  "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/MarkdownTextView.swift": [1768137033, 835012453]
   "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/NoteStorage.swift": [1767616514, 460466266]
   "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/QuickNoteApp.swift": [1767631425, 668138027]
   "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/SettingsView.swift": [1767956633, 553196907]

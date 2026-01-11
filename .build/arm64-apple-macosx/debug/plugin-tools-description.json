@@ -188,6 +188,10 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/MarkdownTextView.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/NoteStorage.swift"
         },
         {
@@ -232,6 +236,7 @@
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/debug/QuickNote.build/Document.swift.o",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/debug/QuickNote.build/DocumentManager.swift.o",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/debug/QuickNote.build/FloatingPanel.swift.o",
+        "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/debug/QuickNote.build/MarkdownTextView.swift.o",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/debug/QuickNote.build/NoteStorage.swift.o",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/debug/QuickNote.build/QuickNoteApp.swift.o",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/debug/QuickNote.build/SettingsView.swift.o",
@@ -298,6 +303,10 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/debug/QuickNote.build/MarkdownTextView.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/debug/QuickNote.build/NoteStorage.swift.o"
         },
         {
@@ -328,6 +337,7 @@
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/Document.swift",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/DocumentManager.swift",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/FloatingPanel.swift",
+        "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/MarkdownTextView.swift",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/NoteStorage.swift",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/QuickNoteApp.swift",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/SettingsView.swift",
@@ -594,6 +604,7 @@
       "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/Document.swift",
       "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/DocumentManager.swift",
       "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/FloatingPanel.swift",
+      "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/MarkdownTextView.swift",
       "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/NoteStorage.swift",
       "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/QuickNoteApp.swift",
       "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/SettingsView.swift",
@@ -848,6 +859,10 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/MarkdownTextView.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/NoteStorage.swift"
         },
         {
@@ -919,6 +934,10 @@
         {
           "kind" : "file",
           "name" : "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/debug/QuickNote.build/FloatingPanel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/debug/QuickNote.build/MarkdownTextView.swift.o"
         },
         {
           "kind" : "file",

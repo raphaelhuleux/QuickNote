@@ -1,6 +1,6 @@
 # QuickNote
 
-QuickNote is a simple markdown note-taking app for MacOS, written in Swift. When the app is launched, simply press `option + o` and start writing. 
+QuickNote is a simple markdown note-taking app for MacOS, written in Swift. When the app is launched, simply press `ctrl + option + cmd + o` and start writing. 
 
 ## Disclaimer 
 
@@ -11,18 +11,11 @@ This project is mostly a way for me to experiment with ‘vibe-coding’. *I am 
 Run
 ```
 # Build release
+cd /Users/raphaelhuleux/Desktop/1_projects/QuickNote
 swift build -c release
-
-# Create app bundle structure
-mkdir -p QuickNote.app/Contents/MacOS
-mkdir -p QuickNote.app/Contents/Resources
-
-# Copy executable
+rm -rf QuickNote.app
+mkdir -p QuickNote.app/Contents/MacOS QuickNote.app/Contents/Resources
 cp .build/release/QuickNote QuickNote.app/Contents/MacOS/
-
-# Copy Info.plist
 cp QuickNote/Info.plist QuickNote.app/Contents/
-
-# Copy app icon
 cp QuickNote/AppIcon.icns QuickNote.app/Contents/Resources/
 ```

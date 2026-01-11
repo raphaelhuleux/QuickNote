@@ -2,7 +2,6 @@ import SwiftUI
 
 struct ContentView: View {
     @ObservedObject var manager = DocumentManager.shared
-    @FocusState private var isTextEditorFocused: Bool
 
     // Dark theme colors
     private let backgroundColor = Color(red: 0.129, green: 0.133, blue: 0.149) // #212226
@@ -14,26 +13,21 @@ struct ContentView: View {
 
             // Editor
             if let document = manager.activeDocument {
-                TextEditor(text: Binding(
-                    get: { document.content },
-                    set: { document.content = $0 }
-                ))
-                .font(.system(size: 15, weight: .regular, design: .monospaced))
-                .foregroundColor(textColor)
-                .scrollContentBackground(.hidden)
-                .background(backgroundColor)
-                .focused($isTextEditorFocused)
-                .padding(.horizontal, 16)
-                .padding(.vertical, 12)
+                MarkdownTextView(
+                    text: Binding(
+                        get: { document.content },
+                        set: { document.content = $0 }
+                    ),
+                    font: .monospacedSystemFont(ofSize: 15, weight: .regular),
+                    textColor: NSColor(red: 0.925, green: 0.937, blue: 0.957, alpha: 1.0),
+                    backgroundColor: NSColor(red: 0.129, green: 0.133, blue: 0.149, alpha: 1.0)
+                )
             }
         }
         .frame(minWidth: 300, minHeight: 200)
-        .onReceive(NotificationCenter.default.publisher(for: .focusTextEditor)) { _ in
-            isTextEditorFocused = true
-        }
         .onAppear {
             DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
-                isTextEditorFocused = true
+                NotificationCenter.default.post(name: .focusTextEditor, object: nil)
             }
         }
     }

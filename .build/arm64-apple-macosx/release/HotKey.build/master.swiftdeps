@@ -1,7 +1,7 @@
 version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
 options: "2e02517428175c717ae8b7acdad601b720b000e6c2f891ca9f919dc17a22a58b"
-build_start_time: [1768132816, 384320000]
-build_end_time: [1768132844, 250361000]
+build_start_time: [1768133471, 768601000]
+build_end_time: [1768133472, 618014000]
 inputs:
   "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/checkouts/HotKey/Sources/HotKey/HotKey.swift": [1767616454, 816025721]
   "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/checkouts/HotKey/Sources/HotKey/HotKeysController.swift": [1767616454, 816156012]

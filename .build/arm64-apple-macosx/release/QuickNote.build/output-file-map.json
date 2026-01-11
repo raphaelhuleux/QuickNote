@@ -29,6 +29,11 @@
     "swiftmodule": "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/FloatingPanel~partial.swiftmodule",
     "swift-dependencies": "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/FloatingPanel.swiftdeps"
   },
+  "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/MarkdownTextView.swift": {
+    "object": "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/MarkdownTextView.swift.o",
+    "swiftmodule": "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/MarkdownTextView~partial.swiftmodule",
+    "swift-dependencies": "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/MarkdownTextView.swiftdeps"
+  },
   "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/NoteStorage.swift": {
     "object": "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/NoteStorage.swift.o",
     "swiftmodule": "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/NoteStorage~partial.swiftmodule",

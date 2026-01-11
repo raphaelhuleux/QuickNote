@@ -96,6 +96,7 @@
         "-emit-objc-header",
         "-emit-objc-header-path",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/HotKey-Swift.h",
+        "-color-diagnostics",
         "-swift-version",
         "5",
         "-F",
@@ -183,6 +184,10 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/MarkdownTextView.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/NoteStorage.swift"
         },
         {
@@ -227,6 +232,7 @@
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/Document.swift.o",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/DocumentManager.swift.o",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/FloatingPanel.swift.o",
+        "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/MarkdownTextView.swift.o",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/NoteStorage.swift.o",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/QuickNoteApp.swift.o",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/SettingsView.swift.o",
@@ -246,6 +252,7 @@
         "-entry-point-function-name",
         "-Xfrontend",
         "QuickNote_main",
+        "-color-diagnostics",
         "-swift-version",
         "5",
         "-F",
@@ -288,6 +295,10 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/MarkdownTextView.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/NoteStorage.swift.o"
         },
         {
@@ -318,6 +329,7 @@
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/Document.swift",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/DocumentManager.swift",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/FloatingPanel.swift",
+        "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/MarkdownTextView.swift",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/NoteStorage.swift",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/QuickNoteApp.swift",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/SettingsView.swift",
@@ -371,6 +383,7 @@
         "-emit-objc-header",
         "-emit-objc-header-path",
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/QuickNotePackageTests-Swift.h",
+        "-color-diagnostics",
         "-F",
         "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
         "-sdk",
@@ -459,6 +472,7 @@
         "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/ModuleCache",
         "-parseable-output",
         "-parse-as-library",
+        "-color-diagnostics",
         "-swift-version",
         "5",
         "-F",
@@ -543,6 +557,7 @@
       "-emit-objc-header",
       "-emit-objc-header-path",
       "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/HotKey.build/HotKey-Swift.h",
+      "-color-diagnostics",
       "-swift-version",
       "5",
       "-F",
@@ -577,6 +592,7 @@
       "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/Document.swift",
       "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/DocumentManager.swift",
       "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/FloatingPanel.swift",
+      "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/MarkdownTextView.swift",
       "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/NoteStorage.swift",
       "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/QuickNoteApp.swift",
       "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/SettingsView.swift",
@@ -596,6 +612,7 @@
       "-entry-point-function-name",
       "-Xfrontend",
       "QuickNote_main",
+      "-color-diagnostics",
       "-swift-version",
       "5",
       "-F",
@@ -644,6 +661,7 @@
       "-emit-objc-header",
       "-emit-objc-header-path",
       "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNotePackageTests.build/QuickNotePackageTests-Swift.h",
+      "-color-diagnostics",
       "-F",
       "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
       "-sdk",
@@ -692,6 +710,7 @@
       "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/ModuleCache",
       "-parseable-output",
       "-parse-as-library",
+      "-color-diagnostics",
       "-swift-version",
       "5",
       "-F",
@@ -810,6 +829,10 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/MarkdownTextView.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/QuickNote/NoteStorage.swift"
         },
         {
@@ -881,6 +904,10 @@
         {
           "kind" : "file",
           "name" : "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/FloatingPanel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/raphaelhuleux/Desktop/1_projects/QuickNote/.build/arm64-apple-macosx/release/QuickNote.build/MarkdownTextView.swift.o"
         },
         {
           "kind" : "file",
